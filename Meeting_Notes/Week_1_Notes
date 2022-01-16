@@ -1,0 +1,56 @@
+//Notes from the 2 meetings on Tuesday Jan. 11 and Friday Jan. 14
+First Meeting Objectives: 
+-Leader and Co-Leader
+--Leader: Thomas
+--Co-Leader: Nidhi
+
+-Subteams
+--Bela Board -RPI Programming
+--Harp physical design/construction
+--FFT construction/programming (projector/computer)
+
+-Subteam Members
+--Bela Board -RPI Programming
+---Thomas
+---Nidhi
+---Jan
+--Harp physical design/construction
+---Isaiah
+---Pratham
+--FFT construction/Programming
+---Zbynka
+---Chanthal
+
+-Logger/Documentor
+--Thomas
+
+-Gannt Chart Maker
+--Nidhi
+
+Next Meeting:
+Tuesday 1/18 6pm
+
+Challenges:
+Working without project specifics (budget, laser diode quantity) and figuring out what media will be utilized for collaboration
+
+
+Professor Notes
+Average Energy of Band-Pass filter instead of FFT
+> Band pass filter for each of our desired spectrums (ex. 200-400 Hz)
+> the highest energy (strongest signal) is the freq we have
+> Can light up LEDs accordingly
+
+Bandwidths we want to have
+> how precise do we want to be?
+>> We answer this question
+	> Would depend to how many laser diodes we have
+	> If limited, we can do a specific scale (C major - 8 notes) and create the bandwidth to be the range of each note. (C-D-E-F-G-A-B-C)
+
+Potential Mentor in the Future
+> Banjo Guy who added LED lights
+
+Sean Notes
+> Laser Safety
+> Website/Weekly Updates
+
+
