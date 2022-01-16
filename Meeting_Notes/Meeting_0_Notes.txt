@@ -1,0 +1,37 @@
+Select Leader and Co-leader
+Leader:
+Co-leader:
+
+List of technical challenges
+Designing an adjustment system so that the lasers can hit their targets
+Piping audio from Bella board to speakers and to FFT for signal processing
+Minimizing latency so that audio (and FFT?) respond to the instrument in real-time
+
+Subtasks:
+Bella Board -RPI Programming
+Thomas 
+Harp physical design/construction
+
+
+FFT construction/programming (projector/computer)
+
+
+Audio effects designing (physical or digital)
+
+
+
+Minimum Viable Project Resources:
+Wood for Harp Construction
+13 lasers and 13 matched detectors
+13 Indicator LEDs
+Raspberry Pi w/ Bella Board
+Computer w/ Monitor for FFT Display
+Speaker
+Questions:
+What is the power of the laser diodes?
+
+
+
+
+
+
