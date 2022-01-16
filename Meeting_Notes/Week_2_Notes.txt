@@ -1,3 +1,6 @@
+Can I unshare the google folder? Sean wants us to store everything here on Github, so I figure we should get started early
+Everyone should now have access to the Fusion 360 project
+
 Status Updates
 
 Bela Board Team:
