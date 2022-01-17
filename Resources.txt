@@ -1,4 +1,5 @@
 Tutorial for programming Bela: https://www.youtube.com/channel/UCgWd1Q2dcWdqCGNl5BijFsA
+Code Examples, links, references: https://github.com/BelaPlatform/bela-online-course
 Bela Board Shop Page: https://shop.bela.io/products/bela-starter-kit
 Other Harps:
  https://www.instructables.com/Aetherharp-2/
