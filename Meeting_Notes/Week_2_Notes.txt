@@ -1,5 +1,6 @@
 Can I unshare the google folder? Sean wants us to store everything here on Github, so I figure we should get started early
 Everyone should now have access to the Fusion 360 project
+I picked up a Bela Board from Sean, only one though: we will have to see if he has any more
 
 Status Updates
 
