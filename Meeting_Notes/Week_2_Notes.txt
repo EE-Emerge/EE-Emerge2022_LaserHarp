@@ -9,17 +9,26 @@ Bela Board Team:
 >currently runs OS on SD card, which it shouldn't have to but I couldn't figure out how to fix it
 
 Harp Construction Team:
+>Looking at projects Sean put on slack
+>Decide if speakers will be embedded (probably not)
+>Maybe do Aether-harp style theramin/harp design?
+>
 
 Spectral Analysis Team:
+>LED display or Computer monitor? (led display)
+>Band Pass filters 
+>https://www.instructables.com/7-Band-Led-Audio-Visualizer/
 
 Goals for Next Tuesday
 
 Bela Board Team:
 >Complete tutorials 0-2 on youtube
+>BOARD RUNS AT 3.3V, NOT 5V!
 
 Harp Construction Team:
 >Research and CAD out a rough shape
+> built in speakers or not
 
 Spectral Analysis Team:
->Find a spectral analysis program that you will use
+>Come up with pros and cons for computer monitor vs LED strip display
 
