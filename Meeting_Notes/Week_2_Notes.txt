@@ -12,7 +12,7 @@ Harp Construction Team:
 >Looking at projects Sean put on slack
 >Decide if speakers will be embedded (probably not)
 >Maybe do Aether-harp style theramin/harp design?
->
+
 
 Spectral Analysis Team:
 >LED display or Computer monitor? (led display)
@@ -31,4 +31,19 @@ Harp Construction Team:
 
 Spectral Analysis Team:
 >Come up with pros and cons for computer monitor vs LED strip display
+
+General Notes:
+
+FFT/Band-pass
+> human hearing range
+>> spilt up range into certain amount of ranges/bands we want
+>> feed magnitude of signal is the note
+>> pot to adjust/tune
+
+Short wave DFT?
+> audio spectogram
+>3-D FFT
+>> Time vs. Frequency and color is magnitude of frequency at that time
+>> NIN album songs played thru spectrogram makes an image
+
 
