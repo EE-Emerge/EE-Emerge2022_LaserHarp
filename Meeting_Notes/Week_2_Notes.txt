@@ -1,20 +1,25 @@
 Can I unshare the google folder? Sean wants us to store everything here on Github, so I figure we should get started early
 Everyone should now have access to the Fusion 360 project
-I picked up a Bela Board from Sean, only one though: we will have to see if he has any more
+I picked up a Bela Board from Sean, only one though: we will get a second sometime soon
 
 Status Updates
 
 Bela Board Team:
+>configured board with proper software and ran "hello world" code on it
+>currently runs OS on SD card, which it shouldn't have to but I couldn't figure out how to fix it
 
 Harp Construction Team:
 
 Spectral Analysis Team:
 
-Goals for Friday
+Goals for Next Tuesday
 
 Bela Board Team:
+>Complete tutorials 0-2 on youtube
 
 Harp Construction Team:
+>Research and CAD out a rough shape
 
 Spectral Analysis Team:
+>Find a spectral analysis program that you will use
 
