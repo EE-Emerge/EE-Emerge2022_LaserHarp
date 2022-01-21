@@ -17,7 +17,53 @@ General Notes
   Harp Construction:
   
   Spectral Analysis:
-  
+
+----NOTES--------------------------------------------------------------------------------------
+Be sure to pick out who's presenting next on Fridays!
+
+FFT - Chanthal has taken EEC100, no preferance for the display yet
+
+Mechanical - Leaning towards Aether and distance sensor // discrete boundaries, goes from note to note
+
+Bela Board - Thomas and Nidhi at West village, Jan's at La Rue but can drive
+> Built-in FFT algortihm and interacts with screen ie. mouse movement changes sound
+> 3male pins, left speaker and right speaker
+> ~20 IO pins
+> Cool Sound: Shepard's Risset - https://www.youtube.com/watch?v=MShclPy4Kvc
+> Tutorials: https://www.youtube.com/playlist?list=PLCrgFeG6pwQmdbB6l3ehC8oBBZbatVoz3 
+                ^is this the right playlist?
+
+
+In-Person Meetings when school is back in-person?
+> Need meeting space
+>>> EE-Emerge Lab? Talk to Sean
+>>> MU, SCC
+
+------------------
+Sean Notes
+------------------
+Distance Sensors : have either 9 or 16 sensors, 
+> Proximity/Light sensor
+Thomas: should we get new IR ones, like on the instructables? 4in-35in range
+
+to use new sensors: need to put out a proposal and explain why we need it/why it's more benefical than laser
+benefits: more levels/notes from a single sensor
+          laser needs more percision and calibration
+          safety!! lasers r dangerous :O 
+            need saftey training on how to use lasers // n
+          sketch of how it's gonna be implemented
+          Smaller: flat 1-piece is more transportable than square
+          > Submit early next week (maybe work on Tues during team meeting?) - email proposal to Prof and Sean
+              > keep it simple: pro, cons, diagram(s)
+              > how many would we need? Max. Num would be 13? chromatic scale + extra C to sandwich it
+                > "for now let's say 6 inputs into the bela board" - Sean
+          
+          Need to find supplier
+          > adafruit? https://www.adafruit.com/product/164
+          > banana robotics - https://www.bananarobotics.com/shop/Sharp-GP2Y0A21YK0F-IR-Distance-Sensor
+          > ebay - https://www.ebay.com/itm/311557016331?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A17blqzN4GRjOgUtHOPonl_g44&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=311557016331&targetid=4580702891777576&device=c&mktype=&googleloc=&poi=&campaignid=418640321&mkgroupid=1233652283797640&rlsatarget=pla-4580702891777576&abcId=9300602&merchantid=51291
+
+Note should be sent to  beagle bone which translates to actual sound
 
 
 
