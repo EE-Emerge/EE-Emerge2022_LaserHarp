@@ -22,7 +22,7 @@ First Meeting Objectives:
 ---Chanthal
 
 -Logger/Documentor
---Thomas
+--Jan
 
 -Gannt Chart Maker
 --Nidhi
