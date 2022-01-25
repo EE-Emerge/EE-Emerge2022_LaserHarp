@@ -3,19 +3,21 @@ Status Updates:
   We are now pursuing a Aether-Harp: the sensors are on the way?
   
 Bela Board:
-
+  
 Harp Construction:
   How are we going to connect the Bela to the sensors? Do we need an intermediate mc?
 
 FFT:
-
+  Screen or LED strips?
 
 
 For Next Tuesday:
 
 Bela Board:
+  Do tutorial on analog/digital io (6-7) ASAP to see if bela can take input from sensors
 
 Harp Construction:
-
+  Rough CAD design in Fusion of the Aether Harp Base
+  
 FFT:
-
+  
