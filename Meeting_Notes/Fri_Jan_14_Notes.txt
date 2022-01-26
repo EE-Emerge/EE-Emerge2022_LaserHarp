@@ -13,13 +13,13 @@ First Meeting Objectives:
 --Bela Board -RPI Programming
 ---Thomas
 ---Nidhi
----Jan
+
 --Harp physical design/construction
 ---Isaiah
 ---Pratham
 --FFT construction/Programming
 ---Zbynka
----Chanthal
+---Jan
 
 -Logger/Documentor
 --Jan
