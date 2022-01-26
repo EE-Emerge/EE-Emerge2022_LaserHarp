@@ -72,6 +72,9 @@ FFT:
   > 20kHz and space 
   > Each BPF listens to audio input and certain amount of voltage readout
   2 op amps or 3, up to FFT team
+  Split in two: 
+    Jan designs the bandpass filters
+    Zbynka makes a Rough CAD of the board with 10 LED strips on it
   
   
 
