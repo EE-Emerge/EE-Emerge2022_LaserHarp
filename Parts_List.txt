@@ -1,5 +1,7 @@
 Bela Board:
 
 Construction:
+  Distance Sensor: https://amzn.to/3rJBAha
+  
 
 FFT:
