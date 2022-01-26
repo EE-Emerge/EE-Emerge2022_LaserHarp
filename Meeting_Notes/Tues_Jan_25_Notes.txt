@@ -3,21 +3,77 @@ Status Updates:
   We are now pursuing a Aether-Harp: the sensors are on the way?
   
 Bela Board:
+  > has 8 input pins
   
 Harp Construction:
   How are we going to connect the Bela to the sensors? Do we need an intermediate mc?
+  
+        Distance Sensor product links
+        > https://www.pololu.com/product/2464 
+        > https://www.adafruit.com/product/164
+
 
 FFT:
   Screen or LED strips?
+      >   Aether harp loses the light effect of the lasers, LEDs make up for the missing light show
+  > added Jan
+     Band-pass filter method
 
-
-For Next Tuesday:
-
+Sean notes:
+  Tell sean what we need and he'll get it (diodes + circuitry = ~$15)
+  integrate or don't integrate speakers? 
+        > determines enclosure build
+        > what speakers do we want? over 5000 to choose from
+        > ESDC opening up: are we going to use acrylic or plywood?
+            > ESDC will start getting busy in like 2 weeks because other classes will need the space too
+   Design PCB by mid-next week
+        > 1 week for design/capture
+        > 1 week for manufacturing
+        > 0.5 week to assemble
+    > PCB will make the wiring look good 
+      > Bela board integrated to circuit
+    > order extra ones to display/show on picnic day
+   Find minimum design (enclosure, PCB) 
+   
+  TONIGHT
+  > How many notes?
+        7? 8? 12?
+        12 is a good length
+        going with 
+  > Decide the sensors and send to Sean
+        $10 - https://www.amazon.com/GP2Y0A21YK0F-GP2Y0A21-Infrared-Proximity-Distance/dp/B075FPR2VX/ref=sr_1_3?crid=1M3FRSRLVKBAS&keywords=infrared+distance+sensor&qid=1643163503&sprefix=infrared+distance+sensor%2Caps%2C151&sr=8-3
+         > ordering two for intitial test
+         >  sensor at 5V, bela operates at 3.3V // Voltage divider? Buck Converter/Step Down Converter?
+   
+      
+ BY FRIDAY:
+  > schematic for interface to Bela Board
+  > integrate or don't integrate speakers?
+      > Team leading towards external speakers
+      > Bela inside harp
+  
+  
+  > ~12 weeks countdown to picnic day
+  
+--------------------------------------------------  
+---For Next Tuesday:
+--------------------------------------------------
 Bela Board:
   Do tutorial on analog/digital io (6-7) ASAP to see if bela can take input from sensors
 
 Harp Construction:
   Rough CAD design in Fusion of the Aether Harp Base
+  > More detail on CAD // Dimensions of Bela fit
+  > Parameterize :))))
+  Decide on Material
   
 FFT:
+  Design BPF
+  > 20kHz and space 
+  > Each BPF listens to audio input and certain amount of voltage readout
+  2 op amps or 3, up to FFT team
   
+  
+
+
+    
