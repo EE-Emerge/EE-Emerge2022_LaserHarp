@@ -19,8 +19,10 @@ or
 Need seperate microcontroller to control LEDs (would be too much for Bela Board alone)
 > Prof mentions some Cypress Microsystems board?
 
-NEXT STEPS
-Hook up distance sensors to Bela Board
+Bela Board : 
+> Sensors run straight to Bela Board
+> 8 Notes, need to sense all 8 at the same channel (multiple notes at the same time, as long as we program it that way)
+    >  PIVOT: 7 sensors to that we can have more distance per sensors
 
 BPF
 Max Volts: 1V peak-to-peak
@@ -30,13 +32,12 @@ For FFT LEDS :
 >> output from bela (audio, sine-whatever) sense the values and pass to analog output
 >>> one channel to speakers, one to display
 
-Bela Board : 
-> Sensors run straight to Bela Board
-> 8 Notes, need to sense all 8 at the same channel (multiple notes at the same time, as long as we program it that way)
-    >  PIVOT: 7 sensors to that we can have more distance per sensors
+NEXT STEPS
+Hook up distance sensors to Bela Board  
+Meet at EE-E lab next Tuesday during normal Tues meeting time (make sure Sean's there)
     
-    
-BIG QUESTION---
+ 
+BIG QUESTIONS---
 > Distance Sensors : Cone shaped Field of View, How will this affect the notes played?
       > ANSWER: +-2 degrees, at max. height (80cm) each sensor should be spaces about 6cms to avoid cross-interference.
 > How will we play multiple notes at the same time
