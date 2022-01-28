@@ -1,1 +1,68 @@
+Prof. Notes
+> Can we play multiple notes at a time?
 
+Sean General Notes
+> Access to upstaires EE-Emerge lab :: Each team have their own lockers
+> Must wear N95 mask, must have an active fan in the room, Sean must be in the room as well
+
+--------------------------
+---Break-out Room --------
+--------------------------
+
+Construction Ideas
+> Isaiah - Acryllic Enclosure with LEDs inside
+or
+> Thomas - LEDs on spray painted black board, Rectabgular enclosure
+> Thomas - Big Fan Shape? Lol
+> Arcyillic or wood?
+
+Need seperate microcontroller to control LEDs (would be too much for Bela Board alone)
+> Prof mentions some Cypress Microsystems board?
+
+NEXT STEPS
+Hook up distance sensors to Bela Board
+
+BPF
+Max Volts: 1V peak-to-peak
+> Decide: 3 or 2 op-amps?
+For FFT LEDS : 
+> Spilt audio 
+>> output from bela (audio, sine-whatever) sense the values and pass to analog output
+>>> one channel to speakers, one to display
+
+Bela Board : 
+> Sensors run straight to Bela Board
+> 8 Notes, need to sense all 8 at the same channel (multiple notes at the same time, as long as we program it that way)
+    >  PIVOT: 7 sensors to that we can have more distance per sensors
+    
+    
+BIG QUESTION---
+> Distance Sensors : Cone shaped Field of View, How will this affect the notes played?
+      > ANSWER: +-2 degrees, at max. height (80cm) each sensor should be spaces about 6cms to avoid cross-interference.
+> How will we play multiple notes at the same time
+    > Bela board can process multiple notes and add up signals
+    > if hand hits middle of two sensors, both notes played
+> How will we get rid of the Theremin sound? How will we implement BPF (analog filter or digital filter)
+    > good filter with series of Filter bands and average Vs
+    > or can digitalize it, a lot of flexibility, but processing time will go up
+    > or microcontroller that can do the filtering and averaging (not TI :O )
+          > Cypress Analog Contoller (?) 
+       > https://www.design-reuse.com/news/6254/cypress-microsystems-analog-programmable-mixed-signal-arrays.html
+          > can slide stuff?
+          
+          
+  -----------------------------------
+  Prof Warnings/Notes ---
+ > IR sensors are VERY IFFY, previous teams have had trouble succesfully implementing them
+ > Theremin sound is a NO, it sounds annoying :((
+ > Will the BPF be analog or digital?
+      
+ > Take Digital signals processing course (EEC 151) 
+  > EEC150 is req's anyways and is pre-req for 151
+  
+  
+ 
+ 
+ 
+ 
+    
