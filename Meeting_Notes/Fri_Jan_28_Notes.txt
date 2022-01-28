@@ -58,7 +58,7 @@ BIG QUESTION---
  > Will the BPF be analog or digital?
       
  > Take Digital signals processing course (EEC 151) 
-  > EEC150 is req's anyways and is pre-req for 151
+  > EEC150 is req'd anyways and is pre-req for 151
   
   
  
