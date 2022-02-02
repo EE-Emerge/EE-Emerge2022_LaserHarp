@@ -5,9 +5,21 @@ Bela Board:
 Harp Construction:
 
 FFT:
+  Audio Voltage from Bela
+  Opamp (unity gain) to ADC to MSP430 to NeoPixel
+  from out of MSP430 -> Dipswitch (buncha switches)
+      ^ sets frequencies
+
+  Map +-3V to 0-3.3V
+  ADC resolution (0-3.3)
+
+  Digital bandpass and whateve
+  FFT hard to do on MSP430 (and slow) :') so we're doing this instead
+
+
 
 Who wants to present on Friday?:
-  >
+  > Jan's turn :O
 
 Goals for next Tuesday:
 
