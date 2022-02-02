@@ -1,0 +1,20 @@
+Status Updates:
+
+Bela Board:
+
+Harp Construction:
+
+FFT:
+
+
+Goals for next Tuesday:
+
+Bela Board:
+  Tutorials 3-4, make program with wavetable for testing sensors
+  
+Harp Construction:
+  Choose materials, refine design to adhere to material constraints (extra credit: Add illumination to the instrument)
+  
+FFT:
+  Create a PCB in KiCAD (reccomended) or Altium for the bandpass filters
+  Create a basic CAD of the FFT Display in the Fusion 360 group
