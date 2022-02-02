@@ -6,6 +6,8 @@ Harp Construction:
 
 FFT:
 
+Who wants to present on Friday?:
+  >
 
 Goals for next Tuesday:
 
