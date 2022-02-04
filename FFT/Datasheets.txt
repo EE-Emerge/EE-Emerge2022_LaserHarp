@@ -1,0 +1,11 @@
+MSP430: https://www.ti.com/lit/ds/symlink/msp430g2553.pdf
+  Measurements: https://www.ti.com/lit/ml/mpdi002c/mpdi002c.pdf?ts=1643916828310&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM339A%253Fdcmp%253Ddsproject%2526hqs%253Dsw%2526
+MSP430 pinout: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.makerelectronico.com%2Fwp-content%2Fuploads%2F2017%2F08%2FMSP430-USB-LP-makerelectronico-3.jpg&f=1&nofb=1
+
+Neopixel: https://octopart.com/datasheet/1655-adafruit+industries-51490158
+
+
+============================================================================================================================================
+---These vvvvv aren't confirmed part choices, they're just placeholders I used footprints of for the 1st schematic iteration----------------
+Op-Amp: https://www.ti.com/lit/ds/symlink/opa333.pdf?ts=1643979471590&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DOPA333AIDBVT
+ADC: https://www.ti.com/lit/ds/symlink/adc101c021.pdf?ts=1643944467540
