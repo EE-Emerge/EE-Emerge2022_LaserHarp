@@ -5,3 +5,10 @@ Construction:
   
 
 FFT:
+Op-Amp (for unity gain buffer)
+ADC
+MSP430
+Dipswitch
+Neopixels
+Resistors (values TBD)
+Switches
