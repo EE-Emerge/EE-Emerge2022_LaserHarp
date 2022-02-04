@@ -2,3 +2,80 @@ Objectives:
 When will we be meeting each week?
 
 PCB Deadline: 14th and 15th of February
+
+
+Power supply!!!
+--> Central :: 5V main supply (attached to PCB) (or use 12V and step down)
+------> spilt into little 3.3V babies 
+
+
+
+Do data processing within Bela Board
+get twice amount of sensors
+
+
+Block Diagram
+> describe each system and how everything works together
+MSP has an ADC
+
+
+Distance Sensor -> 8 signals --> Analog FrontEnd--> 8 signals --> Bela --> Audio --> spilt audio --> Display and Speaker
+
+
+
+Distance Sensor --> [unity gain buffer --> ADC Scaling... ---> U.G.B. & DRN] -->
+                     ^======AFE (audio from end)==========^
+   
+ +-3.3~ V(Audio) -->   UGB (avoids backfeed) --> map to 0-3.3V with opAMP, scales --> MSP --> 
+             
+unity gain buffer
+----Dist.Sens -------Vout
+                 |
+                 |
+                 somthing here
+                 |
+                 GND
+                 
+  Test unity gain buff
+    Test: 0 - 3.3V
+    Test: 0 - 5.0V
+    
+    
+Say we put in 5V...
+    VVV 5V              VVV 5V                 0 - 3.3  ( Add opamp w/ 3.3 Vin)
+[unity gain buffer --> ADC Scanning... ---> U.G.B. & DRN]
+
+
+TI excel sheet that tells u what opamp/buffer and resistors to use :O
+
+
+Just display Voltage to hand height on Neopixel
+
+Another analyzer that looks at the overall sounds
+
+> TWO DISPLAYS!!!??!?!
+Bela releasess spectrograph on a screen (MATLAB), Freq vs. Time, every 30s or so, of the running update of what's played
+MSP does Neopixel to show hand height // flashy 
+
+
+A way to change instruments?
+
+
+Working with MATLAB
+> Download C code and upload on BELA
+
+
+spilt audio --> Display and Speaker
+> A/V spilter, 
+
+Display
+Acryllic Slots and put another acryllic sheet on top
+Place Acryllic Strips
+
+
+
+
+
+
+
+                 
