@@ -8,7 +8,7 @@ FFT:
 Op-Amp (for unity gain buffer)
 ADC
 MSP430
-Dipswitch
+DIP switch
 Neopixels
 Resistors (values TBD)
 Switches
