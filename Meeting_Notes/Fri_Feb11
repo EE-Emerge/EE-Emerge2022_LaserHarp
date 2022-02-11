@@ -1,0 +1,26 @@
+Objectives: 
+- Finalize Parts List
+- Schematics for PCB and Wavetables 
+
+Sean's Notes:
+- For Cross-side of PCB, connector from bottom area of design and wire to hold the PCB in that area
+-  About making the structure out of acrylic: can use ethernet (like an old school phone cable)  RGA-45 (4 twisted pairs), can make those and attach
+- Each PCB will need 50 mA 
+- can buy a spool of wire on Amazon and put the connectors on
+- also there is a sensor that removes all the analog circuitry 
+
+
+
+Goals: 
+- Get mechanical design built, even if the sensor changes because the enclosure will still be roughly the same size ( may need to do 2-3 revisions) --> full size, made out of 
+- Need to make PCB for distance sensors, large holes in the corner, 2 holes on the sides, RJ-12 wires, make a hat for the Bela to keep the wires in place and easier to troubleshoot
+- go to Github for Bela hat project 
+- if it works, want to make 2 more for EOY event
+- Need to put order in by next Monday 
+- try to connect distance sensor to the Bela for demonstration next Friday, Bela producing 2 tones
+- 
+- 
+
+
+
+
