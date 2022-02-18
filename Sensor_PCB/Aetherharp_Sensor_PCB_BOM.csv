@@ -1,0 +1,28 @@
+"Source:","C:\Users\tomwi\OneDrive\Documents\School\EEC 105\Aetherharp Project\KiCad\Aetherharp\Aetherharp.kicad_sch"
+"Date:","2/18/2022 12:01:50"
+"Tool:","Eeschema (6.0.1)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","7"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MPN","Mouser/Digikey PN"
+"","","C1","10u","Device:C","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~","GCJ31CD7YA106KE02L ","Mouser: 81-GCJ31CD7YA106KE2L "
+"","","C2","10u","Device:C","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~","GCJ31CD7YA106KE02L ","Mouser: 81-GCJ31CD7YA106KE2L "
+"","","D1","1N4001","pspice:DIODE","Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~","ACURN101-HF ","Mouser: 750-ACURN101-HF "
+"","","J1","RJ12","Connector:RJ12","Connector_RJ:RJ12_Amphenol_54601","~","CRJ030-G-TH ","Mouser:  490-CRJ030-G-TH "
+"","","R1","10k","Device:R","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~","CRMA1206AF10K0DKEF ","Mouser: 71-CRMA1206AF10K0DKF "
+"","","U2","GP2Y0A21YK0F","Aetherharp:GP2Y0A21YK0F","Aetherharp-footprints:GP2Y0A21YK0F",""," GP2Y0A21YK0F","Mouser: 852-GP2Y0A21YK0F"
+"","","U3","TL071","Amplifier_Operational:TL071","Aetherharp-footprints:SOIC-8","http://www.ti.com/lit/ds/symlink/tl071.pdf","TL071BCD ","Mouser: 595-TL071BCD "
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MPN","Mouser/Digikey PN"
+"1","2","C1, C2","10u","Device:C","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~","GCJ31CD7YA106KE02L ","Mouser: 81-GCJ31CD7YA106KE2L "
+"2","1","D1","1N4001","pspice:DIODE","Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~","ACURN101-HF ","Mouser: 750-ACURN101-HF "
+"3","1","J1","RJ12","Connector:RJ12","Connector_RJ:RJ12_Amphenol_54601","~","CRJ030-G-TH ","Mouser:  490-CRJ030-G-TH "
+"4","1","R1","10k","Device:R","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~","CRMA1206AF10K0DKEF ","Mouser: 71-CRMA1206AF10K0DKF "
+"5","1","U2","GP2Y0A21YK0F","Aetherharp:GP2Y0A21YK0F","Aetherharp-footprints:GP2Y0A21YK0F",""," GP2Y0A21YK0F","Mouser: 852-GP2Y0A21YK0F"
+"6","1","U3","TL071","Amplifier_Operational:TL071","Aetherharp-footprints:SOIC-8","http://www.ti.com/lit/ds/symlink/tl071.pdf","TL071BCD ","Mouser: 595-TL071BCD "
