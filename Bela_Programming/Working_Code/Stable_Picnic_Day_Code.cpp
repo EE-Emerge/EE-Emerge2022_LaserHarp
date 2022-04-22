@@ -25,7 +25,7 @@ int gNumberOfSensorsTriggered=0;						//stores how many of the sensors are being
 float gSensorLatency=50;								//ms of latency for the distance sensors
 int framesSinceUpdate=0;
 
-float thresholds[3]={0.15,0.2,0.45};
+float thresholds[3]={0.17,0.2,0.45};
 
 //Initialize the global oscilloScope
 Scope gScope;
@@ -47,6 +47,7 @@ bool setup(BelaContext *context, void *userData)
 		float sineFundamental=sin(2.0*M_PI*float(n)/float(gWavetableLength));
 		float sineHarmonic1=sin(4.0*M_PI*float(n)/float(gWavetableLength));
 		float sineHarmonic2=sin(8.0*M_PI*float(n)/float(gWavetableLength));
+		float sineHarmonic3=sin(16.0*M_PI*float(n)/float(gWavetableLength));
 		//square wave
 		float squareFundamental;
 		if(sin(2.0*M_PI*float(n)/float(gWavetableLength))>=0)
@@ -87,15 +88,17 @@ bool setup(BelaContext *context, void *userData)
 		
 		/*
 		Instruments:
-		Organ: 0.6 0.2 0.2 0.0 0.0 0.0 0.0
+		Organ: 0.5 0.2 0.2 0.1 0.0 0.0 0.0 0.0
+		Digital Keyboard: 0.6 0.0 0.2 0.0 0.0 0.2 0.0 0.0
 		
 		*/
 		
 		
 		//write to wavetable
-		float sineFundamentalFactor=		0.6;
+		float sineFundamentalFactor=		0.5;
 		float sineHarmonic1Factor=			0.2;
 		float sineHarmonic2Factor=			0.2;
+		float sineHarmonic3Factor=			0.1;
 		float squareFundamentalFactor=		0.0;
 		float squareHarmonic1Factor=		0.0;
 		float triangleFundamentalFactor=	0.0;
@@ -103,6 +106,7 @@ bool setup(BelaContext *context, void *userData)
 		gWavetable[n]=	sineFundamentalFactor*sineFundamental+
 						sineHarmonic1Factor*sineHarmonic1+
 						sineHarmonic2Factor*sineHarmonic2+
+						sineHarmonic3Factor*sineHarmonic3+
 						squareFundamentalFactor*squareFundamental+
 						squareHarmonic1Factor*squareHarmonic1+
 						triangleFundamentalFactor*triangleFundamental+
@@ -118,7 +122,7 @@ bool setup(BelaContext *context, void *userData)
 	}
 	
 	//adjust octave
-	int octave=3;
+	int octave=2;
 	for (int i=0; i<gNumberOfSensors; i++)
 	{
 		masterFrequencies[i]*=pow(2.0,octave);
