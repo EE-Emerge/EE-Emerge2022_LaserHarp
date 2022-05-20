@@ -1,0 +1,1 @@
+Holds gerber files and kicad schematics for the Bela HAT PCB.
