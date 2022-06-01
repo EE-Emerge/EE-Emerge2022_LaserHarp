@@ -6,7 +6,7 @@ description: Meet the Aetherharp team, the group of six engineers who designed a
 
 | | |
 |:---------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
-|**Thomas Wicklund** <br/> **Team Leader** <br/> Electrical Engineering <br/> Focus: RF and Microwave Systems <br/> [LinkedIn](https://linkedIn.com) & [GitHub](https://github.com) | ![Thomas Wicklund]({{site.baseurl}}/assets/css/octocat.png) |
+|**Thomas Wicklund** <br/> **Team Leader** <br/> Electrical Engineering <br/> Focus: RF and Microwave Systems <br/> [LinkedIn](https://linkedIn.com/in/thomas-wicklund) & [GitHub](https://github.com/tewicklund) | ![Thomas Wicklund]({{site.baseurl}}/assets/css/octocat.png) |
 |**MEMBER NAME** <br/>                 <br/> DEGREE <br/> Focus: XXX <br/> [LinkedIn](https://linkedIn.com)  & [GitHub](https://github.com) | ![MEMEBR NAME]({{site.baseurl}}/assets/css/octocat.png) |
 |**MEMBER NAME** <br/>                 <br/> DEGREE <br/> Focus: XXX <br/> [LinkedIn](https://linkedIn.com)  & [GitHub](https://github.com) | ![MEMEBR NAME]({{site.baseurl}}/assets/css/octocat.png) |
 |**MEMBER NAME** <br/>                 <br/> DEGREE <br/> Focus: XXX <br/> [LinkedIn](https://linkedIn.com)  & [GitHub](https://github.com) | ![MEMEBR NAME]({{site.baseurl}}/assets/css/octocat.png) |
