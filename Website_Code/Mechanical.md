@@ -1,7 +1,7 @@
 ---
 layout: default
-title: MECHANICAL PAGE TITLE
-description: MECHANICAL PAGE DESCRIPTION
+title: Aetherharp Chassis Design
+description: This page summarizes the design of the Aetherharp chassis including the three types of stage: Bela housing, sensor housing, and speaker housing.
 ---
 
 # The Aetherharp Chassis
