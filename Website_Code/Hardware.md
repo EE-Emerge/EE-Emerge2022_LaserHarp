@@ -7,6 +7,7 @@ description: The Aetherharp utilizes 3 main hardware components: the Bela Board,
 # Hardware Design Revision 0.4
 
 ## The Bela Board
+![BelaBoardImage] (assets/css/"bela board.png" "Test Image")
 Purpose of the Bela board is to take inputs from the senssor PCBs and output sound to the built-in speakers. 
 ### Issues
 During assembly and testing found following issues
