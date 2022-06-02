@@ -7,7 +7,7 @@ description: The Aetherharp utilizes 3 main hardware components: the Bela Board,
 # Hardware Design Revision 0.4
 
 ## The Bela Board
-![BelaBoardImage](assets/images/bela-board.png "Test Image")
+![BelaBoardImage](assets/images/bela_board.png "Bela Board")
 Purpose of the Bela board is to take inputs from the senssor PCBs and output sound to the built-in speakers. 
 ### Issues
 During assembly and testing found following issues
@@ -18,6 +18,7 @@ During assembly and testing found following issues
 
 
 ## The Bela HAT PCB
+![BelaHatImage](assets/images/bela-hat-0.4.png "Bela HAT 0.4")
 Purpose of the Bela HAT PCB is to connect to the IO of the Bela Board and allow for easy connection between the Sensor PCB's outputs and the Bela Board's inputs. Featuring 7 RJ12 connectors, the Bela HAT PCB can accept input from all 7 sensor PCBs in addition to supplying the sensor PCBs with 9V power.
 ### Issues
 During assembly and testing found following issues
@@ -26,6 +27,7 @@ During assembly and testing found following issues
 2. The PCB was not well integrated with its housing, so the ports did not line up well.
 
 ## The Sensor PCB
+![SensorPCBImage](assets/images/real-sensor-pcb.jpg "Bela Board")
 Purpose of the sensor PCB is to power the Infrared Distance Sensor mounted on its surface and make sure that its analog output does not exceed 3.3V to prevent damage to the Bela Board.
 ### Issues
 During assembly and testing found following issues
@@ -36,5 +38,6 @@ During assembly and testing found following issues
 # Hardware Design Revision 1.2
 
 ## The Bela HAT PCB
+![SensorPCBImage](assets/images/Bela-hat-1.2.png "Bela Board")
 The second iteration of teh Bela HAT PCB included a larger overall footprint capable of providing 5V power to the speakers and power/control of an LED strip. This iteration was desinged to fit well within its housing, making all necessary ports available on the back of the Aetherharp (USB, Ethernet, 9V Power, etc). We did not find issues in assembly because this revision was designed but was never implemented due to delays in the PCB manufacturing process.
 
