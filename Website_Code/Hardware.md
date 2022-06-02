@@ -37,4 +37,4 @@ During assembly and testing found following issues
 ## The Bela HAT PCB
 The second iteration of teh Bela HAT PCB included a larger overall footprint capable of providing 5V power to the speakers and power/control of an LED strip. This iteration was desinged to fit well within its housing, making all necessary ports available on the back of the Aetherharp (USB, Ethernet, 9V Power, etc). We did not find issues in assembly because this revision was designed but was never implemented due to delays in the PCB manufacturing process.
 
-({{site.baseurl}}/assets/css/octocat.png)
+![test_image](assets/css/octocat.png "Test Image")
