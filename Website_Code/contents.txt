@@ -1,1 +1,0 @@
-Folder contains all the markdown and html necessary for the github website
