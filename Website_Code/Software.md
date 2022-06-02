@@ -5,7 +5,7 @@ description: Hosts information about the software tools utilized to create the A
 ---
 
 # The Bela IDE
-![IDEScreenshot](/assets/images/IDE-Screenshot.png "Bela IDE")
+![IDEScreenshot](assets/images/IDE-Screenshot.png "Bela IDE")
 The Bela IDE (Integrated Development Environment) is an in-browser tool used to program the Bela board. To program the Bela board, the user simply plugs the Bela board into their computer via USB, installs some drivers, and navigates to bela.local in their browser to begin programming. The user is greeted by the UI shown in above, giving them the ability to create projects, write code in several languages, and even view the pinouts of both types of Bela board. The IDE even has a built-in oscilloscope and javascript app developer so the user has several options for adding visual elements to their program.
 
 # The C++ Code
